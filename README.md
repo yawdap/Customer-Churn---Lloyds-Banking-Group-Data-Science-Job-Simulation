@@ -44,3 +44,22 @@ This project simulates a real-world data science task from Lloyds Banking Group,
 1. Clone the repository:
    ```bash
    git clone https://github.com/yawdap/Customer-Churn---Lloyds-Banking-Group-Data-Science-Job-Simulation.git
+
+2. Navigate to the project directory:
+   cd Customer-Churn---Lloyds-Banking-Group-Data-Science-Job-Simulation
+
+3. Install the dependencies:
+   pip install -r requirements.txt
+
+### Usage
+To run the analysis:
+  jupyter notebook
+
+### Project Structure
+├── data/                    # Raw and processed data
+├── notebooks/               # Jupyter notebooks for analysis
+├── models/                  # Saved models
+├── reports/                 # Analysis reports and visualizations
+├── requirements.txt         # Python dependencies
+└── README.md                # Project documentation
+
